@@ -1,3 +1,4 @@
+featured projects /
 about
 stat
 colaboration

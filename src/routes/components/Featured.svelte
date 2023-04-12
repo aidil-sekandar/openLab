@@ -28,6 +28,7 @@
   }
   .featured-inner > .row1 > h2 {
     font-size: 2.5rem;
+    text-shadow: 5px 5px 5px #181818;
   }
   .featured-inner > .row2 {
     display: flex;
