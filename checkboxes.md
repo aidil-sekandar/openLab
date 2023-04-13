@@ -1,8 +1,8 @@
 featured projects /
-about
+about /
+discussion and Request /
 stat
 colaboration
-discussion and pull request
 sponsor
 security
 sign up and sign in
